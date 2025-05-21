@@ -2,15 +2,13 @@
 
 **🔭 I’m currently working on:**  
 - Project A: [repo-link](https://github.com/tahidul94/TEACHER-ATTRITION-IN-NEBRASKA)  
-- Project B: [repo-link](https://github.com/tahidul94/project-b)  
-
-https://github.com/tahidul94/TEACHER-ATTRITION-IN-NEBRASKA
+- Project B: [repo-link](https://github.com/tahidul94/Garden-Planting-Plan-Optimization)  
 
 **🌱 I’m learning:**  
-- Next.js, Docker, Kubernetes  
+- SQL, AWS & git  
 
 **📫 How to reach me:**  
-- Email: tahidul@example.com  
+- Email: tahidul94@gmail.com  
 - LinkedIn: [in/tahidul94](https://linkedin.com/in/tahidul94)  
 
 <!-- Stats & Top Languages -->
