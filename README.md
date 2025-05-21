@@ -9,7 +9,7 @@
 
 **📫 How to reach me:**  
 - Email: tahidul94@gmail.com  
-- LinkedIn: [in/tahidul94](https://linkedin.com/in/tahidul94)  
+- LinkedIn: [in/tahidul94](https://www.linkedin.com/in/tahidul/)  
 
 <!-- Stats & Top Languages -->
 ![Tahidul’s GitHub stats](https://github-readme-stats.vercel.app/api?username=tahidul94&show_icons=true)  
